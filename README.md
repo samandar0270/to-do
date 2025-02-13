@@ -1,2 +1,2 @@
 # to-do
-to-do list project developed by TDD methodology.
+to-do list project developed using TDD methodology.
